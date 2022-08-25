@@ -1,0 +1,3 @@
+ {
+    "mongoURI": "mongodb+srv://crud:crud@crudapp.u6yr1l0.mongodb.net/?retryWrites=true&w=majority"
+  }
